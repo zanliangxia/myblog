@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/zanliangxia/myblog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-![image](https://github.com/zanliangxia/myblog/master/123.jpg)
+![image](https://github.com/zanliangxia/myblog/blob/gh-pages/_config.yml)
 
 
 # 一、技术
